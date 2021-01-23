@@ -17,3 +17,7 @@ Variables and Names
 [Exercise 5](https://github.com/MathiSurya/Ruby/blob/main/Exercises/ex5.rb)   
 More variables...
 ![ex5](https://user-images.githubusercontent.com/28948551/105571327-25b35a80-5d75-11eb-85fc-b08f24200063.PNG)
+ 
+[Exercise 6](https://github.com/MathiSurya/Ruby/blob/main/Exercises/ex6.rb)  
+Strings and text
+![ex6](https://user-images.githubusercontent.com/28948551/105573116-539e9c00-5d81-11eb-93f2-8960262b0df7.PNG)
