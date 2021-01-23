@@ -22,6 +22,6 @@ More variables...
 Strings and text
 ![ex6](https://user-images.githubusercontent.com/28948551/105573116-539e9c00-5d81-11eb-93f2-8960262b0df7.PNG)
 
-[Exercise 7](https://github.com/MathiSurya/Ruby/blob/main/Exercises/ex7.rb) 
+[Exercise 7](https://github.com/MathiSurya/Ruby/blob/main/Exercises/ex7.rb)   
 More Printing...
 ![ex7](https://user-images.githubusercontent.com/28948551/105573762-e04b5900-5d85-11eb-9864-f14d96c52e76.PNG)
