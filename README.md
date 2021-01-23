@@ -14,3 +14,6 @@ Numbers and Math
 Variables and Names
 ![ex4](https://user-images.githubusercontent.com/28948551/105569949-18de3900-5d6c-11eb-85d5-79da327ec493.PNG)
 
+[Exercise 5](https://github.com/MathiSurya/Ruby/blob/main/Exercises/ex5.rb)   
+More variables...
+![ex5](https://user-images.githubusercontent.com/28948551/105571327-25b35a80-5d75-11eb-85fc-b08f24200063.PNG)
