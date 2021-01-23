@@ -1,6 +1,10 @@
+#there are 100 cars available
 cars = 100
+#maximum 4.0 space available in a car
 space_in_a_car = 4.0
+#Only 30 drivers are available
 drivers = 30
+#There are 90 passengers
 passengers = 90
 cars_not_driven = cars - drivers
 cars_driven = drivers
@@ -14,7 +18,6 @@ puts "We can transport #{carpool_capacity} people today."
 puts "we have #{passengers} to carpool today."
 puts "we need to put about #{average_passengers_per_car} in each car."
 puts "_________________________________________________________________________________________________________"
-
 #1)what is undefined local variable error?
 # It is because you haven't created that variable yet.
 
