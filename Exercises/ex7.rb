@@ -21,3 +21,6 @@ end12 = "r"
 
 print end1 + end2 + end3 + end4 + end5 +end6 
 puts end7 + end8 + end9 + end10 + end11 + end12
+
+#The difference between puts and print was, puts will move to the next line after printing but print stays at the current line.
+#If you don't want a new line then use print
