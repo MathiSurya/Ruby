@@ -14,6 +14,7 @@ puts "We can transport #{carpool_capacity} people today."
 puts "we have #{passengers} to carpool today."
 puts "we need to put about #{average_passengers_per_car} in each car."
 puts "_________________________________________________________________________________________________________"
+
 #1)what is undefined local variable error?
 # It is because you haven't created that variable yet.
 
@@ -23,3 +24,4 @@ puts "If  any one of the value is in floating point then the result will also be
 puts "For Example....."
 puts "If you add 10+10 ,the answer will be #{10+10}";
 puts "But if you add 10+10.0 ,the answer will be #{10+10.0}";
+puts "_________________________________________________________________________________________________________"
