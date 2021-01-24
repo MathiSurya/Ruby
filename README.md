@@ -25,3 +25,7 @@ Strings and text
 [Exercise 7](https://github.com/MathiSurya/Ruby/blob/main/Exercises/ex7.rb)   
 More Printing...
 ![ex7](https://user-images.githubusercontent.com/28948551/105573762-e04b5900-5d85-11eb-9864-f14d96c52e76.PNG)
+
+[Exercise 8](https://github.com/MathiSurya/Ruby/blob/main/Exercises/ex8.rb)   
+String formatting
+![ex8](https://user-images.githubusercontent.com/28948551/105630788-19142c80-5e71-11eb-902e-f0cc8c4bf111.PNG)
