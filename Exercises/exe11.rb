@@ -12,6 +12,7 @@ puts "So, you're #{age} old,#{height} tall and #{weight} heavy."
 #for converting the user input into integers we use gets.chomp.to_i
 
 print "How old are you? "
+#here we are using .to_i ,so that even if the user enters a floating point number  it will be converted into strings.
 age = gets.chomp.to_i
 print "How tall you are? "
 height = gets.chomp.to_i
