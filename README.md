@@ -38,4 +38,9 @@ Printing,Printing,Printing....
 Escape Sequences
 ![ex10](https://user-images.githubusercontent.com/28948551/105960701-9a530580-60a3-11eb-8d5e-b681f9662c22.PNG)
 
+[Exercise 11](https://github.com/MathiSurya/Ruby/blob/main/Exercises/exe11.rb)   
+Asking Questions....?    
+![ex11](https://user-images.githubusercontent.com/28948551/106026658-1a9f5800-60f0-11eb-8071-a46293fadc9b.PNG)
+
+
 
