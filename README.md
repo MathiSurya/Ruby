@@ -29,3 +29,8 @@ More Printing...
 [Exercise 8](https://github.com/MathiSurya/Ruby/blob/main/Exercises/ex8.rb)   
 String formatting
 ![ex8](https://user-images.githubusercontent.com/28948551/105630788-19142c80-5e71-11eb-902e-f0cc8c4bf111.PNG)
+
+[Exercise 9](https://github.com/MathiSurya/Ruby/blob/main/Exercises/ex9.rb)   
+Printing,Printing,Printing....
+![ex9](https://user-images.githubusercontent.com/28948551/105951235-b94a9b00-6095-11eb-95c1-5634332ad10b.PNG)
+
