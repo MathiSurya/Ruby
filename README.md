@@ -42,5 +42,8 @@ Escape Sequences
 Asking Questions....?    
 ![ex11](https://user-images.githubusercontent.com/28948551/106026658-1a9f5800-60f0-11eb-8071-a46293fadc9b.PNG)
 
+[Exercise 12](https://github.com/MathiSurya/Ruby/blob/main/Exercises/exe12.rb)     
+Prompting....       
+![exe12](https://user-images.githubusercontent.com/28948551/106032982-2a6e6a80-60f7-11eb-8cc2-ebc1d72e8657.PNG)
 
 
