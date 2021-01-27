@@ -34,3 +34,8 @@ String formatting
 Printing,Printing,Printing....
 ![ex9](https://user-images.githubusercontent.com/28948551/105951235-b94a9b00-6095-11eb-95c1-5634332ad10b.PNG)
 
+[Exercise 10](https://github.com/MathiSurya/Ruby/blob/main/Exercises/exe10.rb)  
+Escape Sequences
+![ex10](https://user-images.githubusercontent.com/28948551/105960701-9a530580-60a3-11eb-8d5e-b681f9662c22.PNG)
+
+
