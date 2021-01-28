@@ -46,4 +46,8 @@ Asking Questions....?
 Prompting....       
 ![exe12](https://user-images.githubusercontent.com/28948551/106032982-2a6e6a80-60f7-11eb-8cc2-ebc1d72e8657.PNG)
 
+[Exercixe 13](https://github.com/MathiSurya/Ruby/blob/main/Exercises/exe13.rb)   
+Parameters, Unpacking, Variables     
+![exe13](https://user-images.githubusercontent.com/28948551/106099881-68a07400-6161-11eb-9c85-ee4a63b56b85.PNG)
+
 
