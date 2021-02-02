@@ -50,4 +50,23 @@ Prompting....
 Parameters, Unpacking, Variables     
 ![exe13](https://user-images.githubusercontent.com/28948551/106099881-68a07400-6161-11eb-9c85-ee4a63b56b85.PNG)
 
+[Exercise 14](https://github.com/MathiSurya/Ruby/blob/main/Exercises/exe14.rb)   
+Prompting and Passing     
+![exe14](https://user-images.githubusercontent.com/28948551/106596437-04274f80-657b-11eb-8f90-d65d7fc5c8ea.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
