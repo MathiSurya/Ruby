@@ -10,7 +10,7 @@ likes = $stdin.gets.chomp
 puts "Where do you live #{user_name}?"
 puts prompt
 lives = $stdin.gets.chomp
-
+#using comma at puts means ,using puts twice 
 puts "What kind of computer do you have? ", prompt
 computer = $stdin.gets.chomp
 
