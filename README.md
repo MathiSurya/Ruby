@@ -54,6 +54,10 @@ Parameters, Unpacking, Variables
 Prompting and Passing     
 ![exe14](https://user-images.githubusercontent.com/28948551/106596437-04274f80-657b-11eb-8f90-d65d7fc5c8ea.PNG)
 
+[Exercise 15](https://github.com/MathiSurya/Ruby/blob/main/Exercises/exe15.rb)    
+Reading Files....       
+![exe15](https://user-images.githubusercontent.com/28948551/106847547-21703100-66d5-11eb-98bf-fa41cc678182.PNG)
+
 
 
 
